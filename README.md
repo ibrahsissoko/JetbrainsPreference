@@ -7,7 +7,7 @@
 
 ## Installation
 
-- Téléchargé le repository
+- Téléchargé le [repository](https://github.com/Gynidark/JetbrainsPreference/archive/master.zip)
 - Ouvrez votre IDE (*ex PHPStorm*)
 - File > import Settings
 - Séléctionné le settings.jar que vous avez téléchargé.
